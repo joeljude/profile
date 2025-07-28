@@ -7,12 +7,52 @@ redirect_from:
   - /about.html
 ---
 
-Product leader with 10+ years driving innovation across fintech and enterprise SaaS platforms, specializing in automation. Demonstrates
-expertise developing and executing product roadmaps with data-driven decisions and cross-functional collaboration. Proven track record
-of scaling platforms, optimizing customer experiences and operational efficiency. Skilled in agile methodologies, go-to-market strategies,
-and stakeholder engagement.
+Joel Sequeira is a recognized expert in **Financial Technology** with extraordinary ability in developing innovative solutions for **Identity Verification**, **Fraud Prevention**, and the application of **Generative AI** in financial systems. As Director of Product Management at GBG IDology, his contributions have reshaped industry standards in fraud mitigation and secure financial transactions.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## Professional Overview
+
+With over 16 years of transformative contributions to fraud prevention and financial technology, Joel has consistently achieved sustained national and international recognition. His innovative work in AI-driven identity verification and fraud detection has reshaped industry practices, earning him acclaim for developing impactful solutions that protect financial institutions globally.
+
+## Key Innovations & Contributions
+
+**At GBG IDology (Current Role):**
+- **GBG Trust USA**: Developed a groundbreaking real-time cross-industry monitoring platform leveraging data from 650+ companies across 28 sectors, offering 30 billion unique attribute monitoring configurations
+- **ExpectID Flex Orchestration**: Created a revolutionary low-code orchestration platform that streamlined identity verification workflows, achieving 5:1 ROI for consumer lending clients
+- **ExpectID Decision Builder**: Designed an advanced fraud prevention tool enabling businesses to create custom rules by combining over 30 million potential data attribute scenarios
+
+**Previous Leadership Roles:**
+- **VMware AirWatch**: Led development of enterprise mobility management solutions, including patented innovations in mobile security (US Patents: US11477179B2, US10073720B2)
+- **Deloitte Consulting**: Applied expertise in data analytics to support financial services companies in enhancing operational efficiency
+- **Tata Consultancy Services**: Contributed to developing secure, scalable digital solutions for global enterprises
+
+## Industry Recognition & Leadership
+
+Joel's expertise has earned him recognition as a judge for prestigious awards including:
+- PayTech Awards USA (Fintech Futures)
+- Globee® Awards for Technology
+- Business Intelligence Group AI Excellence Awards
+- Stevie® American Business Awards
+
+He holds memberships in elite professional organizations:
+- **Technology Association of Georgia (TAG)**
+- **Association for the Advancement of Artificial Intelligence (AAAI)**
+- **Association of Certified Fraud Examiners (ACFE)**
+
+## Publications & Thought Leadership
+
+Joel has authored peer-reviewed research including "Efficacy of Large Language Models in Combating Fraud" published in the International Journal of Management, IT & Engineering (Impact Factor 7.119). His work has been featured extensively in professional publications including BAI Executive Reports, Mobile ID World, and Merchant Fraud Journal.
+
+## Strategic Impact on National Security
+
+Joel's work directly supports the United States' strategic priorities in cybersecurity and artificial intelligence, aligning with the 2024 Critical and Emerging Technologies (CET) List. His innovations in AI-driven fraud detection and identity verification systems are crucial for protecting U.S. financial infrastructure and maintaining technological leadership globally.
+
+## Awards & Recognition
+
+Under Joel's leadership, GBG IDology has received multiple prestigious awards:
+- **Best Identity & Access Security Solution Award** for ExpectID Decision Builder
+- **Finovate Award for Best Identity Management Solution** for ExpectID Flex Orchestration
+
+These accolades directly recognize the innovative products and strategies spearheaded by Joel, highlighting his critical role in advancing financial technology and fraud prevention.
 
 A data-driven personal website
 ======
