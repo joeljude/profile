@@ -1,5 +1,5 @@
 ---
-title: "IDology Expands Leading Identity Verification Platform With Unmatched Levels of Control, Customization and Visibility"
+title: "IDology Expands Leading Identity Verification Platform With Unmatched Levels of Control Customization and Visibility"
 collection: publications
 permalink: /publication/2020-09-16-idology-platform-expansion
 excerpt: 'Coverage of IDology's expansion of its identity verification platform, featuring the ExpectID Decision Builder developed under Joel Sequeira's leadership.'
