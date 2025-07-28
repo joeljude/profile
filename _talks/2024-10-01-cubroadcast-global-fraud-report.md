@@ -1,5 +1,5 @@
 ---
-title: "9th Annual Global Fraud Report: Best Practices for Credit Unions"
+title: "CUbroadcast: 9th Annual Global Fraud Report Insights"
 collection: talks
 type: "Podcast Interview"
 permalink: /talks/2024-10-01-cubroadcast-global-fraud-report
@@ -8,18 +8,16 @@ date: 2024-10-01
 location: "Virtual"
 ---
 
-Joel Sequeira was featured on CUbroadcast, a leading platform for credit union professionals, discussing the findings of IDology's "9th Annual Global Fraud Report" and sharing best practices for mitigating contemporary fraudulent activities.
+🎙️ **Featured on CUbroadcast** discussing IDology's "9th Annual Global Fraud Report" and sharing actionable fraud prevention strategies for credit union professionals.
 
-## Key Discussion Points
+## What We Covered
 
-**Fraud Trends Analysis**: Provided comprehensive overview of the report, highlighting critical challenges credit unions face in balancing consumer demand for seamless onboarding with robust security measures.
+🔍 **Latest Fraud Trends** - Analyzed critical challenges in balancing seamless member onboarding with robust security measures
 
-**COVID-19 Impact**: Discussed the escalating threats posed by AI-driven fraud schemes, including synthetic identity fraud and sophisticated phishing attacks that emerged during the pandemic.
+🤖 **AI-Driven Threats** - Explored synthetic identity fraud and sophisticated phishing attacks accelerated by generative AI
 
-**AI Countermeasures**: Advocated for adoption of human-managed AI practices to effectively counter evolving threats, referencing IDology's resources on defending against AI-generated fraud.
+🛡️ **Defense Strategies** - Advocated for human-supervised AI approaches to combat evolving fraud patterns
 
-**Member Experience**: Emphasized importance of frictionless identity verification processes in enhancing member acquisition and retention while maintaining compliance and security standards.
+📈 **Member Experience** - Discussed frictionless identity verification that enhances acquisition while maintaining compliance
 
-## Industry Impact
-
-This engagement reached thousands of credit union professionals, providing them with actionable insights for improving their fraud prevention strategies while maintaining excellent member experiences.
+**Listen:** [CUbroadcast Podcast](https://cubroadcast.com) | **Impact:** Reached thousands of credit union professionals with actionable fraud prevention insights

@@ -1,36 +1,32 @@
 ---
-title: "Combating AI-Powered Fraud: Industry Panel Discussion"
+title: "IDology Fraud Forum: AI-Powered Fraud Panel"
 collection: talks
 type: "Conference Panel Moderator"
 permalink: /talks/2024-06-01-idology-fraud-forum
-venue: "IDology's 8th Annual Identity & Fraud Forum"
+venue: "IDology's Annual Identity & Fraud Forum"
 date: 2024-06-01
 location: "Atlanta, Georgia"
 ---
 
-Joel Sequeira served as the moderator for a high-profile panel at IDology's annual Fraud Forum, featuring leading experts discussing how fraudsters leverage generative AI and defense strategies.
+🎤 **Moderated a high-profile expert panel** on combating AI-powered fraud at IDology's premier industry conference, bringing together law enforcement, analysts, and technologists.
 
-## Panel Composition
+## Expert Panel
 
-**Moderator**: Joel Sequeira, Director of Product Management, GBG IDology
+**Moderator:** Joel Sequeira, Director of Product Management, GBG IDology
 
-**Panelists**:
-- **Aaron Seres**: FBI Supervisory Special Agent specializing in White Collar Crime and cyber fraud
-- **Julie Conroy**: Chief Industry Insights Officer at Datos Insights  
-- **Keivan Bahmani**: Leading Data Scientist from GBG IDology
+**Distinguished Panelists:**
+- 🕵️ **Aaron Seres** - FBI Supervisory Special Agent (White Collar Crime & Cyber Fraud)
+- 📊 **Julie Conroy** - Chief Industry Insights Officer, Datos Insights
+- 🔬 **Keivan Bahmani** - Lead Data Scientist, GBG IDology
 
-## Key Discussion Topics
+## Panel Focus Areas
 
-**AI-Powered Synthetic Identities**: Deep dive into how fraudsters leverage generative AI to create synthetic and fake identities that can evade traditional detection methods.
+🤖 **AI-Powered Synthetic Identities** - How fraudsters use generative AI to create undetectable fake identities
 
-**Defense Strategies**: Comprehensive discussion of organizational strategies to prepare and defend against emerging AI-driven fraud threats.
+🛡️ **Advanced Defense Strategies** - Organizational approaches to combat emerging AI-driven fraud threats
 
-**9th Annual Global Fraud Report**: Analysis of key findings and actionable recommendations for financial institutions and businesses.
+📈 **Global Fraud Report Insights** - Key findings and actionable recommendations from IDology's 9th Annual Report
 
-**Cross-Industry Intelligence**: Exploration of how consortium-based fraud detection can provide superior protection against sophisticated fraud schemes.
+🌐 **Consortium Intelligence** - Cross-industry collaboration for superior fraud protection
 
-## Industry Impact
-
-This panel brought together law enforcement, industry analysts, and technology experts to provide attendees with comprehensive insights into the evolving fraud landscape. Joel's role as moderator demonstrated his ability to facilitate high-level discussions between diverse stakeholders and translate complex technical concepts for broad audiences.
-
-The forum attracted hundreds of industry professionals and positioned Joel as a thought leader capable of convening and guiding critical industry conversations about emerging threats.
+**Event Impact:** Hundreds of industry professionals | **Venue:** Atlanta, GA | **Audience:** Financial institutions, fintechs, and fraud prevention leaders
