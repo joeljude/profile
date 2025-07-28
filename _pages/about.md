@@ -9,11 +9,11 @@ redirect_from:
 
 ## Product Leader | FinTech Innovation Expert
 
-I'm a **Director of Product Management at GBG IDology** with 16+ years of experience driving innovation in financial technology, fraud detection, and AI-powered identity verification systems. My work protects millions of transactions globally and has earned industry-wide recognition for setting new standards in financial security.
+I'm a **Director of Product Management** with 16+ years of experience driving innovation in financial technology, fraud detection, and AI-powered identity verification systems. My work protects millions of transactions globally and has earned industry-wide recognition for setting new standards in financial security.
 
 ## What I Do
 
-🚀 **Lead Product Innovation** at GBG IDology, developing AI-driven fraud prevention solutions that serve 4,000+ businesses worldwide
+🚀 **Lead Product Innovation** developing AI-driven fraud prevention solutions that serve 4,000+ businesses worldwide
 
 🔬 **Pioneer AI Solutions** for combating synthetic identity fraud and emerging digital threats in financial services
 
@@ -24,7 +24,7 @@ I'm a **Director of Product Management at GBG IDology** with 16+ years of experi
 ## Key Achievements
 
 **Revolutionary Products Built:**
-- **GBG Trust USA** - Real-time cross-industry fraud intelligence platform monitoring 650+ companies across 28 sectors
+- **Trust USA** - Real-time cross-industry fraud intelligence platform monitoring 650+ companies across 28 sectors
 - **ExpectID Flex Orchestration** - Low-code identity verification platform reducing implementation costs by 7x
 - **ExpectID Decision Builder** - AI-powered fraud detection tool with 30M+ configuration possibilities
 
@@ -35,11 +35,11 @@ I'm a **Director of Product Management at GBG IDology** with 16+ years of experi
 
 **Innovation Portfolio:**
 - Co-inventor of 2 US patents in enterprise mobile security (US10104051B2, US10073720B2)
-- Led award-winning solutions at GBG IDology: Best Identity Management Solution (Finovate), Best Identity & Access Security Solution
+- Led award-winning solutions: Best Identity Management Solution (Finovate), Best Identity & Access Security Solution
 
 ## Professional Background
 
-**Director of Product Management** | GBG IDology (Current)  
+**Director of Product Management** | Leading FinTech Company (Current)  
 Leading AI-driven fraud prevention and identity verification innovation
 
 **Senior Product Manager** | VMware AirWatch  

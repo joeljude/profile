@@ -1,5 +1,5 @@
 ---
-title: "ExpectID Platform Expansion - Revolutionary Identity Verification Innovation"
+title: "Platform Expansion - Revolutionary Identity Verification Innovation"
 collection: publications
 permalink: /publication/2020-09-16-idology-platform-expansion
 excerpt: 'Major platform expansion featuring ExpectID Decision Builder with 30M+ configuration possibilities, developed during COVID-19 pandemic response.'
@@ -7,14 +7,14 @@ date: 2020-09-16
 venue: 'ITSecurityWire, Mobile ID World, ITsec Bureau'
 slidesurl: ""
 paperurl: ""
-citation: 'ITSecurityWire. (2020, September 16). "IDology Expands Leading Identity Verification Platform With Unmatched Levels of Control, Customization and Visibility." <i>ITSecurityWire</i>.'
+citation: 'ITSecurityWire. (2020, September 16). "Expands Leading Identity Verification Platform With Unmatched Levels of Control, Customization and Visibility." <i>ITSecurityWire</i>.'
 ---
 
 🚀 **Platform Revolution** | **COVID-19 Response Innovation** | **September 2020**
 
 ## Game-Changing Platform Enhancement
 
-Led the development of major ExpectID platform expansions during the COVID-19 pandemic, delivering unprecedented customization capabilities that transformed how businesses handle identity verification in rapidly changing fraud landscapes.
+Led the development of major platform expansions during the COVID-19 pandemic, delivering unprecedented customization capabilities that transformed how businesses handle identity verification in rapidly changing fraud landscapes.
 
 ## Revolutionary Features
 

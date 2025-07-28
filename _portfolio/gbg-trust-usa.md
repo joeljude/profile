@@ -1,14 +1,14 @@
 ---
-title: "🎆 GBG Trust USA - Revolutionary Fraud Intelligence Platform"
+title: "🎆 Trust USA - Revolutionary Fraud Intelligence Platform"
 excerpt: "Game-changing real-time fraud intelligence network connecting 650+ companies across 28 sectors - redefining collaborative fraud prevention at enterprise scale."
 collection: portfolio
 ---
 
-🏆 **Product Leadership Innovation** | **GBG IDology** | **2024 Launch**
+🏆 **Product Leadership Innovation** | **Leading FinTech Company** | **2024 Launch**
 
 ## Revolutionary Platform Architecture
 
-Designed and launched **GBG Trust USA** - a paradigm-shifting fraud intelligence platform that transformed the industry from siloed detection methods to collaborative, real-time intelligence sharing across unprecedented scale.
+Designed and launched **Trust USA** - a paradigm-shifting fraud intelligence platform that transformed the industry from siloed detection methods to collaborative, real-time intelligence sharing across unprecedented scale.
 
 ## Breakthrough Innovations
 
@@ -52,10 +52,10 @@ Designed and launched **GBG Trust USA** - a paradigm-shifting fraud intelligence
 
 ## Industry Recognition & Impact
 
-🏢 **London Stock Exchange Feature** - Highlighted in GBG Group's preliminary results as critical Identity solutions advancement
+🏢 **Stock Exchange Recognition** - Highlighted in company's preliminary results as critical Identity solutions advancement
 
 🎆 **Competitive Differentiation** - Unique consortium network and velocity rules offering unmatched market capabilities
 
-📈 **Strategic Value** - Significantly enhanced GBG IDology's enterprise positioning and market influence
+📈 **Strategic Value** - Significantly enhanced enterprise positioning and market influence
 
-**Platform Impact:** Redefined collaborative fraud prevention standards | **Network Scale:** 650+ companies, 28 sectors | **Launch Recognition:** LSE-featured innovation
+**Platform Impact:** Redefined collaborative fraud prevention standards | **Network Scale:** 650+ companies, 28 sectors | **Industry Recognition:** Featured innovation

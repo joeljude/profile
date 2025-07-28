@@ -16,9 +16,9 @@ Education
 Work Experience
 ======
 * **Director of Product Management** (Current)
-  * GBG IDology (GBG Americas)
+  * Leading FinTech Company
   * Led development of AI-driven fraud prevention and identity verification systems
-  * Designed and oversaw creation of GBG Trust USA, ExpectID Flex Orchestration, and ExpectID Decision Builder
+  * Designed and oversaw creation of Trust USA, ExpectID Flex Orchestration, and ExpectID Decision Builder
   * Managed high-impact, cross-functional teams delivering cutting-edge solutions to 4,000+ global businesses
   * Drove integration of AI-driven algorithms to stay ahead of evolving fraud tactics
 

@@ -1,20 +1,20 @@
 ---
-title: "GBG Trust USA Launch - Revolutionary Fraud Intelligence Platform"
+title: "Trust USA Launch - Revolutionary Fraud Intelligence Platform"
 collection: publications
 permalink: /publication/2024-07-23-gbg-trust-usa-launch
-excerpt: 'Major media coverage of GBG Trust USA launch - a real-time fraud intelligence solution connecting 650+ companies across 28 sectors for enhanced fraud prevention.'
+excerpt: 'Major media coverage of Trust USA launch - a real-time fraud intelligence solution connecting 650+ companies across 28 sectors for enhanced fraud prevention.'
 date: 2024-07-23
 venue: 'PR Newswire, Merchant Fraud Journal, Biometric Update'
 slidesurl: ""
 paperurl: ""
-citation: 'PR Newswire. (2024, July 23). "GBG IDology Announces Innovations to Cross-Industry, Real-Time Fraud Intelligence Solution." <i>PR Newswire</i>.'
+citation: 'PR Newswire. (2024, July 23). "Innovations to Cross-Industry, Real-Time Fraud Intelligence Solution." <i>PR Newswire</i>.'
 ---
 
 🚀 **Major Product Launch** | **Multi-Publication Coverage** | **July 2024**
 
 ## Revolutionary Platform Unveiling
 
-Under my product leadership, GBG launched **Trust USA** - a groundbreaking real-time fraud intelligence solution that transforms how businesses across industries collaborate to combat fraud. This platform represents the next evolution in fraud prevention technology.
+Under my product leadership, we launched **Trust USA** - a groundbreaking real-time fraud intelligence solution that transforms how businesses across industries collaborate to combat fraud. This platform represents the next evolution in fraud prevention technology.
 
 ## Platform Capabilities
 

@@ -1,23 +1,23 @@
 ---
-title: "IDology Fraud Forum: AI-Powered Fraud Panel"
+title: "Industry Fraud Forum: AI-Powered Fraud Panel"
 collection: talks
 type: "Conference Panel Moderator"
 permalink: /talks/2024-06-01-idology-fraud-forum
-venue: "IDology's Annual Identity & Fraud Forum"
+venue: "Annual Identity & Fraud Forum"
 date: 2024-06-01
 location: "Atlanta, Georgia"
 ---
 
-🎤 **Moderated a high-profile expert panel** on combating AI-powered fraud at IDology's premier industry conference, bringing together law enforcement, analysts, and technologists.
+🎤 **Moderated a high-profile expert panel** on combating AI-powered fraud at a premier industry conference, bringing together law enforcement, analysts, and technologists.
 
 ## Expert Panel
 
-**Moderator:** Joel Sequeira, Director of Product Management, GBG IDology
+**Moderator:** Joel Sequeira, Director of Product Management
 
 **Distinguished Panelists:**
 - 🕵️ **Aaron Seres** - FBI Supervisory Special Agent (White Collar Crime & Cyber Fraud)
 - 📊 **Julie Conroy** - Chief Industry Insights Officer, Datos Insights
-- 🔬 **Keivan Bahmani** - Lead Data Scientist, GBG IDology
+- 🔬 **Keivan Bahmani** - Lead Data Scientist
 
 ## Panel Focus Areas
 
@@ -25,7 +25,7 @@ location: "Atlanta, Georgia"
 
 🛡️ **Advanced Defense Strategies** - Organizational approaches to combat emerging AI-driven fraud threats
 
-📈 **Global Fraud Report Insights** - Key findings and actionable recommendations from IDology's 9th Annual Report
+📈 **Global Fraud Report Insights** - Key findings and actionable recommendations from the Annual Fraud Report
 
 🌐 **Consortium Intelligence** - Cross-industry collaboration for superior fraud protection
 

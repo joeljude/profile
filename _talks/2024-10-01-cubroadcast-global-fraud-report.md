@@ -8,7 +8,7 @@ date: 2024-10-01
 location: "Virtual"
 ---
 
-🎙️ **Featured on CUbroadcast** discussing IDology's "9th Annual Global Fraud Report" and sharing actionable fraud prevention strategies for credit union professionals.
+🎙️ **Featured on CUbroadcast** discussing the "9th Annual Global Fraud Report" and sharing actionable fraud prevention strategies for credit union professionals.
 
 ## What We Covered
 
