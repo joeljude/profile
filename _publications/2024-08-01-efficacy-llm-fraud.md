@@ -5,8 +5,8 @@ permalink: /publication/2024-08-01-efficacy-llm-fraud
 excerpt: 'This paper examines the role of Large Language Models (LLMs) in both enabling and mitigating fraudulent activities across various industries, including financial services, e-commerce, healthcare, and telecommunications.'
 date: 2024-08-01
 venue: 'International Journal of Management, IT & Engineering'
-slidesurl: #
-paperurl: #
+slidesurl: ""
+paperurl: ""
 citation: 'Sequeira, J. (2024). "Efficacy of Large Language Models in Combating Fraud." <i>International Journal of Management, IT & Engineering</i>. Impact Factor: 7.119.'
 ---
 

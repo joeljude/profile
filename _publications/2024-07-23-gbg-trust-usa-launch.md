@@ -5,8 +5,8 @@ permalink: /publication/2024-07-23-gbg-trust-usa-launch
 excerpt: 'Coverage of the launch of GBG Trust USA, a real-time fraud intelligence solution designed to enhance Know Your Customer (KYC) processes across multiple industries.'
 date: 2024-07-23
 venue: 'PR Newswire, Merchant Fraud Journal'
-slidesurl: #
-paperurl: #
+slidesurl: ""
+paperurl: ""
 citation: 'PR Newswire. (2024, July 23). "GBG IDology Announces Innovations to Cross-Industry, Real-Time Fraud Intelligence Solution." <i>PR Newswire</i>.'
 ---
 

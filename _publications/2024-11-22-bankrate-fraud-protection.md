@@ -5,8 +5,8 @@ permalink: /publication/2024-11-22-bankrate-fraud-protection
 excerpt: 'Joel Sequeira discusses synthetic identity fraud and AI-driven fraud tactics, emphasizing how criminals establish and legitimize synthetic identities over time.'
 date: 2024-11-22
 venue: 'Bankrate.com'
-slidesurl: #
-paperurl: #
+slidesurl: ""
+paperurl: ""
 citation: 'Bankrate.com. (2024, November 22). "3 innovative ways banks are helping protect you from financial fraud." <i>Bankrate</i>.'
 ---
 
